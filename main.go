@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/varuuntiwari/shodan-go/scan"
+	"github.com/retr0ski/shodan-go/scan"
 )
 
 func main() {

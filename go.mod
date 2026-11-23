@@ -1,4 +1,4 @@
-module github.com/varuuntiwari/shodan-go
+module github.com/retr0ski/shodan-go
 
 go 1.19
 
